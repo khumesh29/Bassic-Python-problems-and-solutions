@@ -1,1 +1,1 @@
-# Machine_learning
+Welcome to the Basic Python Questions and Solutions repository! This repository contains a collection of basic Python programming questions along with their solutions. If you are a beginner learning Python or looking to refresh your Python skills, this repository is a great place to start!
