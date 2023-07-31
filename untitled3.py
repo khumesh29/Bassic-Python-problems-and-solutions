@@ -158,9 +158,9 @@ for i in range(10,0,-1):
   print(n,"*",i,"=",n*i)
 
 #Program to find out whether a student is overall pass or fail. His marks in 5 subjects entered by the user.
-To pass in each subject he must score 33%.
-To overall pass he must pass in all subjects and total marks in all subjects greater than 40%.
-Maximum marks in each subject is 100#
+#To pass in each subject he must score 33%.
+#To overall pass he must pass in all subjects and total marks in all subjects greater than 40%.
+#Maximum marks in each subject is 100#
 
 maths=int(input('enter the maths marks '))
 if maths>33:
