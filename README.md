@@ -7,7 +7,9 @@ QUETIONS:
 The questions in this repository are categorized into different topics to make it easier for you to practice specific Python concepts. Here are the categories:
 
 1.) Program who takes input as age and tells whether you are eligible to vote or not ?
+
 2.) Program to find larger number entered by user
+
 3.) Program to find the average of entered numbers entered by a user?
 4.) Program to detect double Spaces in a User entered String if yes then replace it with single space.
 5.) Program to format below code using escape sequence Characters.
